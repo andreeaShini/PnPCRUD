@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "pn-p-crud-operations",
+    "libraryId": "35ac2919-03b5-49d4-b677-d067d4ca9e0c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "pn-p-crud-operations",
+    "solutionShortDescription": "pn-p-crud-operations description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

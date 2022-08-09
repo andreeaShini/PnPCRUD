@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pn-p-crud-operations-client-side-solution",
+    "id": "35ac2919-03b5-49d4-b677-d067d4ca9e0c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "pn-p-crud-operations description"
+      },
+      "longDescription": {
+        "default": "pn-p-crud-operations description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pn-p-crud-operations Feature",
+        "description": "The feature that activates elements of the pn-p-crud-operations solution.",
+        "id": "34babca6-0c4c-48e0-bf88-c7852223b7cc",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pn-p-crud-operations.sppkg"
+  }
+}
